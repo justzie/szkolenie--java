@@ -1,1 +1,1 @@
-# szkolenie--java
+# szkolenie-java
